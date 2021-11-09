@@ -13,5 +13,6 @@ for ($i=0; $i <15;$i++){
     echo "<span style='color: $colours[$i]'>$colours[$i]< /span ><br>";
 }
 ?>
+<br><a href=../test.php target="_blank">Ülessanete leht</a>
 </body>
 </html>
