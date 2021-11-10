@@ -17,5 +17,5 @@ echo "<img src='$arrayy[2]' alt='Landscape'>";
 echo "<br><a href='$arrayy[3]'>Koduleht</a>";
 
 ?>
-<br><a href=../test.php target="_blank">Ülessanete leht</a>
+<br><a href=../test.php>Ülessanete leht</a>
 

@@ -15,6 +15,7 @@
 </head>
 <body>
 <h1>Ülesanne 405</h1>
+
 <?php
 echo "<table>";
 for ($i=1; $i <11;$i++) {
